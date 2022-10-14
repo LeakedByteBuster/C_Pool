@@ -1,0 +1,6 @@
+Credentials cache: API:53F2D333-C016-4544-B130-1B7DB4C785EA
+        Principal: mfouadi@1337.MA
+
+  Issued                Expires               Principal
+Jun 23 20:39:29 2021  Jun 24 06:39:29 2021  krbtgt/1337.MA@1337.MA
+Jun 23 20:39:32 2021  Jun 24 06:39:29 2021  HTTP/iscsi.1337.ma@1337.MA
